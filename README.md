@@ -4,7 +4,7 @@ RnMod3d
 Finite-volume radon transport model (porous media)
 
 This numerical model is written in the programming language Pascal and it was originally designed for
-the compilers Turbo Pascal 7.0 or Delphi. However, the code runs withoutout problems (and modifications) with Free Pascal. 
+the compilers Turbo Pascal 7.0 or Delphi. However, the code runs without problems (and modifications) with Free Pascal. 
 
 To run it with Free Pascal I have tried the folowing on a Linux machine (openSUSE 13.1 running Free Pascal vers. 2.6.4 and the Lazarus IDE version 1.2.4). 
 
