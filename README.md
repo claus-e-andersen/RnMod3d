@@ -12,3 +12,17 @@ It's really easy.
 
 - Claus
 - August 10, 2014
+
+
+The manual for the code is the report from Risø National Laboratory: Risø-R-1201(EN)
+
+Title
+    Radon transport modelling: User's guide to RnMod3d
+Authors
+    Andersen, Claus Erik
+
+Abstract
+    RnMod3d is a numerical computer model of soil-gas and radon transport in porous media. It can be used, for example, to study radon entry from soil into houses in response to indoor-outdoor pressure differences or changes in atmospheric pressure. It canalso be used for flux calculations of radon from the soil surface or to model radon exhalation from building materials such as concrete. The finite-volume model is a technical research tool, and it cannot be used meaningfully without good understandingof the involved physical equations. Some understanding of numerical mathematics and the programming language Pascal is also required. Originally, the code was developed for internal use at Risø only. With this guide, however, it should be possible forothers to use the model. Three-dimensional steady-state or transient problems with Darcy flow of soil gas and combined generation, radioactive decay, diffusion and advection of radon can be solved. Moisture is included in the model, and partitioning ofradon between air, water and soil grains (adsorption) is taken into account. Most parameters can change in time and space, and transport parameters (diffusivity and permeability) may be anisotropic. This guide includes benchmark tests based on simpleproblems with known solutions. RnMod3d has also been part of an international model intercomparison exercise based on more complicated problems without known solutions. All tests show that RnMod3d gives results of good quality.
+
+Risø-R-1201, Risø-R-1201(EN)
+
