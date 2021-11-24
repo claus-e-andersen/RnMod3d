@@ -18,7 +18,7 @@ It's really easy.
 - Claus
 - August 10, 2014 + November 24, 2021
 
-A precessor to the RnMod3d model was used for computations in the paper:
+A precessor to the RnMod3d model was used for some of the computations in the paper:
 
 C.E. Andersen: "Numerical modelling of radon-222 entry into houses: an outline of techniques and results"
 Science of the Total Environment — 2001, Volume 272, Issue 1-3, pp. 33-42.
