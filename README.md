@@ -10,7 +10,7 @@ To run it with Free Pascal I have tried the folowing on a Linux machine. I have 
 sudo apt-get install lazarus.  
 
 
-(1) Put the RNMOD3D files in a single folder. (2) Open Lazarus. (3) Go to Tools / "Convert Delphi project to Lazarus project" and select one of the .pdr-files (e.g. F0100prg.dpr). Lazarus will then automatically make a Lazarus .lpr-file. (4) From the Run menu item select Compile/build/run. (5) To see the output, open the terminal window using: View / Debug windows / Terminal output. (6) To finish the program run correctly, you have to press enter in the terminal output window !! (7) The output (such as f0100LOG.dat) is in the a folder such as RnMod3d/lib/x86_64-linux/. Use the linux command
+(1) Put the RNMOD3D files in a single folder. (2) Open Lazarus. (3) Go to "Tools / Delphi conversion / Convert Delphi project to Lazarus project" and select one of the .pdr-files (e.g. F0100prg.dpr). Lazarus will then automatically make a Lazarus .lpr-file. (4) From the Run menu item select Compile/build/run. (5) To see the output, open the terminal window using: View / Debug windows / Terminal output. (6) To finish the program run correctly, you have to press enter in the terminal output window !! (7) The output (such as f0100LOG.dat) is in the a folder such as RnMod3d/lib/x86_64-linux/. Use the linux command
 find . -name f0100LOG.dat to find output files.
 
 It's really easy.
