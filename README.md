@@ -7,7 +7,7 @@ This numerical model is written in the programming language Pascal and it was or
 the compilers Turbo Pascal 7.0 or Delphi. However, the code runs without problems (and modifications) with Free Pascal. 
 
 To run it with Free Pascal I have tried the folowing on a Linux machine. I have tried two installations. In 2014, I used: openSUSE 13.1 running Free Pascal vers. 2.6.4 and the Lazarus IDE version 1.2.4. In 2021, I used Ubuntu 20.04 with Lazarus 2.0.6 (2019-12-15). Lazarus could not be installed using the Ubuntu software center, so I used: 
-sudo apt-get install Lazarus.  
+sudo apt-get install lazarus.  
 
 
 (1) Put the RNMOD3D files in a single folder. (2) Open Lazarus. (3) Go to Tools / "Convert Delphi project to Lazarus project" and select one of the .pdr-files (e.g. F0100prg.dpr). Lazarus will then automatically make a Lazarus .lpr-file. (4) From the Run menu item select Compile/build/run. (5) To see the output, open the terminal window using: View / Debug windows / Terminal output. (6) The output (such as f0100LOG.dat) is in the a folder such as RnMod3d/lib/x86_64-linux/. Use the linux command
