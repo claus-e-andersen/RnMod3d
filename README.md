@@ -21,6 +21,8 @@ It's really easy.
 
 The manual for the code is the report from Risø National Laboratory: Risø-R-1201(EN)
 
+Link to full text download: https://orbit.dtu.dk/en/publications/radon-transport-modelling-users-guide-to-rnmod3d
+
 Title:
     Radon transport modelling: User's guide to RnMod3d
 
